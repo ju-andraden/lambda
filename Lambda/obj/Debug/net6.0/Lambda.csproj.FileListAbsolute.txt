@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Lambda\Lambda\bin\Debug\net6.0\Lambda.exe
+C:\temp\ws-vs2022\Lambda\Lambda\bin\Debug\net6.0\Lambda.deps.json
+C:\temp\ws-vs2022\Lambda\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+C:\temp\ws-vs2022\Lambda\Lambda\bin\Debug\net6.0\Lambda.dll
+C:\temp\ws-vs2022\Lambda\Lambda\bin\Debug\net6.0\Lambda.pdb
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.dll
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.pdb
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+C:\temp\ws-vs2022\Lambda\Lambda\obj\Debug\net6.0\ref\Lambda.dll
